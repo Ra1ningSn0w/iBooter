@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iBooter", "iBooter.vcxproj", "{CDB9DD67-0DAB-BDC2-272A-6296E6B96104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB9DD67-0DAB-BDC2-272A-6296E6B96104}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDB9DD67-0DAB-BDC2-272A-6296E6B96104}.Debug|Win32.Build.0 = Debug|Win32
+		{CDB9DD67-0DAB-BDC2-272A-6296E6B96104}.Release|Win32.ActiveCfg = Release|Win32
+		{CDB9DD67-0DAB-BDC2-272A-6296E6B96104}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
